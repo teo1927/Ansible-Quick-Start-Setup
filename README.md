@@ -5,7 +5,7 @@
 `bash Ansible-Quick-Start.sh Desired/Project/Directory/Location`
 
 ##### Requisites
-1. Root Privleges
+1. Root User Privleges
 2. Github Account Credentials
 
 # Ansible-Quick-Start.zip
