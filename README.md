@@ -1,6 +1,6 @@
 # Ansible-Quick-Start.sh
 ### Centos Distributions ONLY
-### Ansible Intallation And Environment Setup
+### Ansible Hub Installation And Environment Setup
 #### Usage
 `bash Ansible-Quick-Start.sh Desired/Project/Directory/Location/`
 
