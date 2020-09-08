@@ -2,7 +2,7 @@
 ### Centos Distributions ONLY
 ### Ansible Intallation And Environment Setup
 #### Usage
-`bash Ansible-Quick-Start.sh Desired/Project/Directory/Location/
+`bash Ansible-Quick-Start.sh Desired/Project/Directory/Location/`
 
 ##### Requisites
 1. Root User Privleges
