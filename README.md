@@ -1,4 +1,4 @@
-# New-Projct.sh
+# New-Project.sh
 This Script Creates A Blank Directory Structure For A New Project
 
 #### Usage
