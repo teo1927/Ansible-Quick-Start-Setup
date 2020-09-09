@@ -10,6 +10,8 @@
 1. Root User Privleges
 2. Github Account Credentials
 
+Creates a horizontally scaling directory structure to facilitate the organization and production of best practice Ansible environments
+
 # Ansible-Quick-Start.zip
 ### Best Practice Ansible Directory Structure And Tools
 #### Includes: 
